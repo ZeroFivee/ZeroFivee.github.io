@@ -9,11 +9,21 @@
 
 
 .edit .face .ds4 {
-    background: url(https://zerofivee.github.io/Remade-assets/dpad.png);
+    background: url(https://zerofivee.github.io/Remade-assets/face.png);
 }
 
 
 .edit .face {
+    position: absolute;
+    background: url(https://zerofivee.github.io/Remade-assets/face.png);
+}
+
+.edit .dpad .ds4 {
+    background: url(https://zerofivee.github.io/Remade-assets/dpad.png);
+}
+
+
+.edit .dpad {
     position: absolute;
     background: url(https://zerofivee.github.io/Remade-assets/dpad.png);
 }
