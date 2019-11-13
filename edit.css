@@ -38,3 +38,13 @@
     position: absolute;
     background: url(https://zerofivee.github.io/Remade-assets/sticks.png);
 }
+
+.edit .touchpad .ds4 {
+    background: url(https://zerofivee.github.io/Remade-assets/touchpad.png);
+}
+
+
+.edit .touchpad {
+    position: absolute;
+    background: url(https://zerofivee.github.io/Remade-assets/touchpad.png);
+}
