@@ -74,7 +74,6 @@
     position: absolute;
     left: 272px;
     top: 122px;
-    background: url(Remade-assets/touchpad.png) no-repeat;
 }
 
 .ds4 .touchpad.pressed {
@@ -230,7 +229,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(Remade-assets/face.png);
+    background: url(Remade-assets/dpad.png);
     position: absolute;
 }
 
@@ -276,5 +275,3 @@ background-position: 0 -70px;
 .ds4.half {
     margin-top: -300px;
 }
-
-/*END PS4 Controller Styling*/
