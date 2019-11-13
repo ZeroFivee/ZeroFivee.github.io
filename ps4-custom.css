@@ -74,6 +74,7 @@
     position: absolute;
     left: 272px;
     top: 122px;
+    background: url(Remade-assets/touchpad.png) no-repeat;
 }
 
 .ds4 .touchpad.pressed {
