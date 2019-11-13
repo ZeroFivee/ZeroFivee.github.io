@@ -48,3 +48,8 @@
     position: absolute;
     background: url(https://zerofivee.github.io/Remade-assets/touchpad.png);
 }
+
+.edit .touchpad .pressed {
+    position: absolute;
+    background: url(https://zerofivee.github.io/Remade-assets/touchpad.png);
+}
