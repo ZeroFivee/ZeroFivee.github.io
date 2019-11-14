@@ -2,13 +2,13 @@
 /*No refunds on digital goods, If you have questions concerning your order please contact us. Your purchase grants you the right to use and display the images for commercial use via streaming, recorded and rebroadcasted media. Your license does not include the right to redistribute copies in anyway, including but not limited to: advertising, stock photography, print sale profits, or resale of any nature. Your purchase of the original files releases The Seller from any liability due to loss or damage of the images, and also releases the Seller from any obligation to maintain copies of any digital file, image, or photograph. You hereby grant to The Seller the right to use and publish images, graphics, or media to further promote their services, including portfolio, web site, display, advertisement, and editorial use. The Seller agrees to limit the use of these images, graphics, or media to promotional use only.*/
 /*Code setup and graphics by Jayraydee, Contact me on twitter @Jayraydee */
 .controller.custom{
-    background: url(base.png); 
+    background: url(Remade-assets/baseV2.png); 
     height: 624px;
     width: 840px;
     background-repeat:no-repeat;
 }
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(disconnected.png);
+    background: url(Remade-assets/disconnected.png);
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
 .custom.disconnected div {
@@ -25,7 +25,7 @@
 .custom .trigger{/* These are the actual triggers themselves */
     width: 208px;
     height: 95px;
-    background: url(triggers.png);
+    background: url(Remade-assets/triggers.png);
     background-repeat:no-repeat;
 }
 .custom .trigger.left{ 
@@ -47,7 +47,7 @@
     height: 333px;
     left: 114px;
     top: 98px;
-    background: url(bumper.png);
+    background: url(Remade-assets/bumper.png);
     opacity: 0;
     background-repeat:no-repeat;
     position: absolute;
@@ -120,7 +120,7 @@
     position: absolute;
     width:58px;
     height:58px;
-    background: url(face.png);
+    background: url(Remade-assets/face.png);
 }
 .custom .button.pressed{
     background-position-y: -60px;
@@ -160,7 +160,7 @@
 }
 .custom .stick{
     position: absolute;
-    background: url(sticks.png);
+    background: url(Remade-assets/sticks.png);
     height:100px;
     width: 100px;
     background-repeat:no-repeat;
@@ -188,7 +188,7 @@
     left: 90px;
 }
 .custom .face{
-    background: url(dpad.png);
+    background: url(Remade-assets/dpad.png);
     position: absolute;
 }
 .custom .face.up{
@@ -259,7 +259,7 @@ width: 55px;
     height: 160px;
     top: 127px;
     left: 282px;
-    background: url(touchpad.png);
+    background: url(Remade-assets/touchpad.png);
     background-repeat:no-repeat; 
 }
 /*END P4S Controller Styling*/
