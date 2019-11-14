@@ -253,6 +253,17 @@ width: 55px;
     background-position: 0px -54px;
     background-repeat:no-repeat;
 }
+
+.custom .touchpad{
+    position:absolute;
+    width: 280px;
+    height: 160px;
+    top: 127px;
+    left: 282px;
+    background: url(Remade-assets/touchpad.png);
+    background-repeat:no-repeat; 
+}
+
 .custom .touchpad.pressed{
     position:absolute;
     width: 280px;
