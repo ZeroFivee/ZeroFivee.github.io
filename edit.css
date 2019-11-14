@@ -9,23 +9,23 @@
 
 
 .edit .face .ds4 {
-    background: url(https://zerofivee.github.io/Remade-assets/face.png);
+    background: url(https://zerofivee.github.io/Luxor-assets/face.png);
 }
 
 
 .edit .face {
     position: absolute;
-    background: url(https://zerofivee.github.io/Remade-assets/face.png);
+    background: url(https://zerofivee.github.io/Luxor-assets/face.png);
 }
 
 .edit .dpad .ds4 {
-    background: url(https://zerofivee.github.io/Remade-assets/dpad.png);
+    background: url(https://zerofivee.github.io/Luxor-assets/dpad.png);
 }
 
 
 .edit .dpad {
     position: absolute;
-    background: url(https://zerofivee.github.io/Remade-assets/dpad.png);
+    background: url(https://zerofivee.github.io/Luxor-assets/dpad.png);
 }
 
 
@@ -40,13 +40,13 @@
 }
 
 .edit .touchpad .ds4 {
-    background: url(https://zerofivee.github.io/Remade-assets/touchpad.png);
+    background: url(https://zerofivee.github.io/Luxor-assets/touchpad.png);
 }
 
 
 .edit .touchpad {
     position: absolute;
-    background: url(https://zerofivee.github.io/Remade-assets/touchpad.png);
+    background: url(https://zerofivee.github.io/Luxor-assets/touchpad.png);
 }
 
 .edit .touchpad .pressed {
