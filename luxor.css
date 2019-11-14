@@ -76,7 +76,7 @@
     background-repeat:no-repeat;
 }
 .custom .back, .custom .start{
-    background: url(start.png);
+    background: url(Luxor-assets/start.png);
     width: 34px;
     height: 19px;
     background-repeat:no-repeat;
