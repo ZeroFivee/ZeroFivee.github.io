@@ -8,7 +8,7 @@
     background-repeat:no-repeat;
 }
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-    background: url(Remade-assets/disconnected.png);
+    background: url(Luxor-assets/disconnected.png);
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
 .custom.disconnected div {
