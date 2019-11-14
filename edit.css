@@ -53,3 +53,8 @@
     position: absolute;
     background: url(https://zerofivee.github.io/Luxor-assets/touchpad.png);
 }
+
+.edit .start .pressed {
+    position: absolute;
+    background: url(https://zerofivee.github.io/Luxor-assets/start.png);
+}
