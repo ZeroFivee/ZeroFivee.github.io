@@ -1,0 +1,60 @@
+.edit .controller.ds4 {
+    background: url(https://zerofivee.github.io/Zerofiv3-overlay/Zerofiv3-assets/base.png);
+}
+
+
+.controller.edit {
+    background: url(https://zerofivee.github.io/Zerofiv3-overlay/Zerofiv3-assets/base.png);
+}
+
+
+.edit .face .ds4 {
+    background: url(https://zerofivee.github.io/Zerofiv3-overlay/Zerofiv3-assets/face.png);
+}
+
+
+.edit .face {
+    position: absolute;
+    background: url(https://zerofivee.github.io/Zerofiv3-overlay/Zerofiv3-assets/face.png);
+}
+
+.edit .dpad .ds4 {
+    background: url(https://zerofivee.github.io/Zerofiv3-overlay/Zerofiv3-assets/dpad.png);
+}
+
+
+.edit .dpad {
+    position: absolute;
+    background: url(https://zerofivee.github.io/Zerofiv3-overlay/Zerofiv3-assets/dpad.png);
+}
+
+
+.edit .stick .ds4 {
+    background: url(https://zerofivee.github.io/Zerofiv3-overlay/Zerofiv3-assets/sticks.png);
+}
+
+
+.edit .stick {
+    position: absolute;
+    background: url(https://zerofivee.github.io/Zerofiv3-overlay/Zerofiv3-assets/sticks.png);
+}
+
+.edit .touchpad .ds4 {
+    background: url(https://zerofivee.github.io/Zerofiv3-overlay/Zerofiv3-assets/touchpad.png);
+}
+
+
+.edit .touchpad {
+    position: absolute;
+    background: url(https://zerofivee.github.io/Zerofiv3-overlay/Zerofiv3-assets/touchpad.png);
+}
+
+.edit .touchpad .pressed {
+    position: absolute;
+    background: url(https://zerofivee.github.io/Zerofiv3-overlay/Zerofiv3-assets/touchpad.png);
+}
+
+.edit .start .pressed {
+    position: absolute;
+    background: url(https://zerofivee.github.io/Zerofiv3-overlay/Zerofiv3-assets/start.png);
+}
